@@ -1,6 +1,6 @@
 # orion-aar
 
-📦 Orion AAR — Android Performance Monitoring SDK
+📦 Orion  — Android Performance Monitoring SDK
 
 Orion is a lightweight performance monitoring library for Android apps. It captures critical runtime metrics including:
 	•	⏱️ App startup (TTID & TTFD)
